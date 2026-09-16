@@ -2,7 +2,7 @@
  * Provocation & Revenge — PCIbex norming experiment
  *
  * Put this script in data_includes.
- * Put sentences_mvb_8_versions_ev_yj_0829.csv in
+ * Put sentences_mvb_8_versions_ev_yj_0915.csv in
  * chunk_includes / Resources.
  *
  * Only generated_version = both_male / both_female is used.
@@ -19,7 +19,7 @@ PennController.ResetPrefix(null);
 // ============================================================
 
 const DATA_FILE =
-  "sentences_mvb_8_versions_ev_yj_0829.csv";
+  "sentences_mvb_8_versions_ev_yj_0915.csv";
 // Temporary: set to false before collecting the full study.
 const DEMO_MODE = false;
 const DEMO_ITEM_LIMIT = 5;
